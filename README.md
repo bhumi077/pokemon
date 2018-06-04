@@ -1,0 +1,2 @@
+# pokemon
+pokemon directory
